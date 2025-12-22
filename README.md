@@ -1,1 +1,1 @@
-     # Smart-Farming-AI 
+# Smart-Farming-AI 
